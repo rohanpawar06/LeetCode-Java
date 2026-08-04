@@ -39,7 +39,7 @@ LeetCode-Java
 | Easy | 25     |
 | Medium | 22     |
 | Hard | 8      |
-| **Total** | **54** |
+| **Total** | **55** |
 
 ---
 
