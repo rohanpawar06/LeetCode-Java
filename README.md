@@ -37,9 +37,9 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 25     |
-| Medium | 22     |
+| Medium | 23     |
 | Hard | 8      |
-| **Total** | **55** |
+| **Total** | **56** |
 
 ---
 
