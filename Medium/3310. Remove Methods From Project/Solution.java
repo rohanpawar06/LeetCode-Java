@@ -12,7 +12,7 @@ class Solution {
 
         for (int[] edge : invocations) {
             graph.get(edge[0]).add(edge[1]);
-        }
+        } 
 
         boolean[] suspicious = new boolean[n];
         dfs(k, graph, suspicious);
