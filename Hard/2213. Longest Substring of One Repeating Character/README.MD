@@ -63,7 +63,7 @@ When two nodes are merged, their information is combined to calculate the answer
 
 ---
 
-## 🔍 Merge Logic
+## 🔍 Merge Logic :
 
 Suppose two adjacent segments are:
 
