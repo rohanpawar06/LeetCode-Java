@@ -211,4 +211,4 @@ The `HashMap` stores information only for rows containing reserved seats.
 
 ## 💻 Language
 
-Java
+Java.
