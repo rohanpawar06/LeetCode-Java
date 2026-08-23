@@ -36,10 +36,10 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 32     |
-| Medium | 30     |
+| Easy | 33     |
+| Medium | 31     |
 | Hard | 13      |
-| **Total** | **75** |
+| **Total** | **77** |
 
 ---
 
