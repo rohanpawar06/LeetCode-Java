@@ -38,8 +38,8 @@ LeetCode-Java
 |------------|--------|
 | Easy | 34     |
 | Medium | 34     |
-| Hard | 14      |
-| **Total** | **82** |
+| Hard | 15      |
+| **Total** | **83** |
 
 ---
 
