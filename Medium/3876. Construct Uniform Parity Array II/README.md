@@ -762,4 +762,4 @@ return noEvenNumberIsSmallerThanMinOdd;
 ## 💻 Language
 
 Java
-````
+```
