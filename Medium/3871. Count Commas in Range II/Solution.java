@@ -6,6 +6,7 @@ class Solution {
             answer += n - start + 1;
         }
 
-        return answer
+        return answer;
+
     }
 }
