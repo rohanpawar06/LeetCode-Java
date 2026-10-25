@@ -37,9 +37,15 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 52 |
-| Medium | 68 |
+| Medium | 69 |
 | Hard | 30 |
-| **Total** | **150** |
+| **Total** | **151** |
+
+---
+
+## 📝 Latest Problem
+
+- **1254. Number of Closed Islands** — Medium
 
 ---
 
