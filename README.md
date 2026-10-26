@@ -45,7 +45,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **1254. Number of Closed Islands** — Medium
+- **3619. Count Islands With Total Value Divisible by K** — Medium
 
 ---
 
