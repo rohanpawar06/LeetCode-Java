@@ -36,16 +36,16 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 52 |
-| Medium | 69 |
-| Hard | 30 |
-| **Total** | **151** |
+| Easy | 12 |
+| Medium | 19 |
+| Hard | 7 |
+| **Total** | **38** |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3619. Count Islands With Total Value Divisible by K** — Medium
+- **3963. Create Grid With Exactly One Path** — Easy
 
 ---
 
