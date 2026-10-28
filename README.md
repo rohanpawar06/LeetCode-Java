@@ -37,15 +37,15 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 12 |
-| Medium | 19 |
+| Medium | 20 |
 | Hard | 7 |
-| **Total** | **38** |
+| **Total** | **39** |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3963. Create Grid With Exactly One Path** — Easy
+- **3882. Minimum XOR Path in a Grid** — Medium
 
 ---
 
