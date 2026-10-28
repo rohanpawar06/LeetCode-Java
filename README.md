@@ -34,12 +34,11 @@ LeetCode-Java
 
 ## 📊 Progress
 
-| Difficulty | Solved / Total |
-|------------|----------------|
-| Easy | 54 / 974 |
-| Medium | 71 / 2,136 |
-| Hard | 30 / 986 |
-| **Total** | **155 / 4,096** |
+| Difficulty | Solved |
+|------------|--------|
+| Easy | 54 |
+| Medium | 71 |
+| Hard | 30 |
 
 ---
 
