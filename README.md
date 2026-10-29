@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 54 |
 | Medium | 71 |
-| Hard | 30 |
+| Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3882. Minimum XOR Path in a Grid** — Medium
+- **3841. Palindromic Path Queries in a Tree** — Hard
 
 ---
 
