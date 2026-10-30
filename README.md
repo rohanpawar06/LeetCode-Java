@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 54 |
-| Medium | 71 |
+| Medium | 72 |
 | Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3841. Palindromic Path Queries in a Tree** — Hard
+- **3970. Shortest Path With At Most K Consecutive Identical Characters** — Medium
 
 ---
 
