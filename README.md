@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 54 |
-| Medium | 72 |
+| Medium | 73 |
 | Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3970. Shortest Path With At Most K Consecutive Identical Characters** — Medium
+- **3665. Twisted Mirror Path Count** — Medium
 
 ---
 
