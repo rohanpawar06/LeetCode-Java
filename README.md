@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 54 |
-| Medium | 73 |
+| Medium | 74 |
 | Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3665. Twisted Mirror Path Count** — Medium
+- **453. Minimum Moves to Equal Array Elements** — Medium
 
 ---
 
