@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 54 |
-| Medium | 74 |
+| Medium | 75 |
 | Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **453. Minimum Moves to Equal Array Elements** — Medium
+- **462. Minimum Moves to Equal Array Elements II** — Medium
 
 ---
 
