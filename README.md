@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 54 |
+| Easy | 55 |
 | Medium | 75 |
 | Hard | 31 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **462. Minimum Moves to Equal Array Elements II** — Medium
+- **3736. Minimum Moves to Equal Array Elements III** — Easy
 
 ---
 
