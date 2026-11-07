@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 55 |
-| Medium | 75 |
+| Medium | 76 |
 | Hard | 31 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3736. Minimum Moves to Equal Array Elements III** — Easy
+- **1882. Process Tasks Using Servers** — Medium
 
 ---
 
