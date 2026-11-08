@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 56 |
+| Easy | 57 |
 | Medium | 77 |
 | Hard | 31 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **1882. Process Tasks Using Servers** — Medium
+- **1267. Count Servers that Communicate** — Medium
 
 ---
 
