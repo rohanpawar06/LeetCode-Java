@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 57 |
 | Medium | 77 |
-| Hard | 31 |
+| Hard | 32 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **1267. Count Servers that Communicate** — Medium
+- **1606. Find Servers That Handled Most Number of Requests** — Hard
 
 ---
 
