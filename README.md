@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 57 |
-| Medium | 77 |
+| Medium | 78 |
 | Hard | 32 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **1606. Find Servers That Handled Most Number of Requests** — Hard
+- **3693. Climbing Stairs II** — Medium
 
 ---
 
