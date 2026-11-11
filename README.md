@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 57 |
-| Medium | 78 |
+| Medium | 79 |
 | Hard | 32 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3693. Climbing Stairs II** — Medium
+- **3789. Minimum Cost to Acquire Required Items** — Medium
 
 ---
 
