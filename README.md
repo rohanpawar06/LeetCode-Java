@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 79 |
 | Hard | 32 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **3789. Minimum Cost to Acquire Required Items** — Medium
+- **3105. Longest Strictly Increasing or Strictly Decreasing Subarray** — Easy
 
 ---
 
