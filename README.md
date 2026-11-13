@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 58 |
 | Medium | 79 |
-| Hard | 32 |
+| Hard | 33 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3105. Longest Strictly Increasing or Strictly Decreasing Subarray** — Easy
+- **3420. Count Non-Decreasing Subarrays After K Operations** — Hard
 
 ---
 
