@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 58 |
+| Easy | 59 |
 | Medium | 79 |
 | Hard | 33 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **3420. Count Non-Decreasing Subarrays After K Operations** — Hard
+- **3364. Minimum Positive Sum Subarray** — Easy
 
 ---
 
