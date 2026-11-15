@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 59 |
-| Medium | 79 |
+| Medium | 80 |
 | Hard | 33 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3364. Minimum Positive Sum Subarray** — Easy
+- **1524. Number of Sub-arrays With Odd Sum** — Medium
 
 ---
 
