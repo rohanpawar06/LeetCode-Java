@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 59 |
+| Easy | 60 |
 | Medium | 80 |
 | Hard | 33 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **1524. Number of Sub-arrays With Odd Sum** — Medium
+- **2243. Calculate Digit Sum of a String** — Easy
 
 ---
 
