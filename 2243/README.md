@@ -37,7 +37,7 @@ Each operation transforms the string by replacing every block of up to `k` digit
 
 **Output:** `"135"`
 
-The first transformation produces `"345"` and the next transformation produces `"12"`? The example should be checked against the exact grouping process.
+The first transformation produces `"3465"`. The next transformation produces `"135"`, whose length is no greater than `k`.
 
 ## Key Learning
 
