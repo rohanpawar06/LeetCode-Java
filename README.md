@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 60 |
 | Medium | 80 |
-| Hard | 33 |
+| Hard | 34 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **2243. Calculate Digit Sum of a String** — Easy
+- **2911. Minimum Changes to Make K Semi-palindromes** — Hard
 
 ---
 
