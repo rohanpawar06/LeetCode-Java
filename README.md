@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 60 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 34 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **2911. Minimum Changes to Make K Semi-palindromes** — Hard
+- **2914. Minimum Number of Changes to Make Binary String Beautiful** — Medium
 
 ---
 
