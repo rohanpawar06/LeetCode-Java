@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 60 |
-| Medium | 81 |
+| Medium | 82 |
 | Hard | 34 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **2914. Minimum Number of Changes to Make Binary String Beautiful** — Medium
+- **2567. Minimum Score by Changing Two Elements** — Medium
 
 ---
 
