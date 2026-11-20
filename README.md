@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 60 |
 | Medium | 82 |
-| Hard | 34 |
+| Hard | 35 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **2567. Minimum Score by Changing Two Elements** — Medium
+- **3041. Maximize Consecutive Elements in an Array After Modification** — Hard
 
 ---
 
