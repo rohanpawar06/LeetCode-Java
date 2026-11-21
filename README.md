@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 60 |
-| Medium | 82 |
+| Medium | 83 |
 | Hard | 35 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3041. Maximize Consecutive Elements in an Array After Modification** — Hard
+- **3331. Find Subtree Sizes After Changes** — Medium
 
 ---
 
