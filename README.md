@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 61 |
-| Medium | 83 |
+| Medium | 84 |
 | Hard | 35 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **2124. Check if All A's Appears Before All B's** — Easy
+- **1352. Product of the Last K Numbers** — Medium
 
 ---
 
