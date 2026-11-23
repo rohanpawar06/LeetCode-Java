@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 60 |
+| Easy | 61 |
 | Medium | 83 |
 | Hard | 35 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **3331. Find Subtree Sizes After Changes** — Medium
+- **2124. Check if All A's Appears Before All B's** — Easy
 
 ---
 
