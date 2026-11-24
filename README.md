@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 61 |
+| Easy | 62 |
 | Medium | 84 |
 | Hard | 35 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **1352. Product of the Last K Numbers** — Medium
+- **3411. Maximum Subarray With Equal Products** — Easy
 
 ---
 
