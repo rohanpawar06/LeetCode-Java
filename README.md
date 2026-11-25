@@ -38,13 +38,13 @@ LeetCode-Java
 |------------|--------|
 | Easy | 62 |
 | Medium | 84 |
-| Hard | 35 |
+| Hard | 36 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3411. Maximum Subarray With Equal Products** — Easy
+- **3934. Smallest Unique Subarray** — Hard
 
 ---
 
