@@ -36,7 +36,7 @@ LeetCode-Java
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 62 |
+| Easy | 63 |
 | Medium | 84 |
 | Hard | 36 |
 
@@ -44,7 +44,7 @@ LeetCode-Java
 
 ## 📝 Latest Problem
 
-- **3934. Smallest Unique Subarray** — Hard
+- **3360. Stone Removal Game** — Easy
 
 ---
 
