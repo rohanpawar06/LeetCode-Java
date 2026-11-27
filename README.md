@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 63 |
-| Medium | 84 |
+| Medium | 85 |
 | Hard | 36 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3360. Stone Removal Game** — Easy
+- **3946. Maximum Number of Items From Sale I** — Medium
 
 ---
 
