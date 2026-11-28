@@ -37,14 +37,14 @@ LeetCode-Java
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 63 |
-| Medium | 85 |
+| Medium | 86 |
 | Hard | 36 |
 
 ---
 
 ## 📝 Latest Problem
 
-- **3946. Maximum Number of Items From Sale I** — Medium
+- **3947. Maximum Number of Items From Sale II** — Medium
 
 ---
 
